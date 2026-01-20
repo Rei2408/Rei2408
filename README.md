@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Reizo Nararya 👋
+**3rd Year Robotics and AI Engineering Student**
 
-<!--
-**Rei2408/Rei2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in bridging the gap between intelligent software and physical systems. My work focuses on **Computer Vision**, **Intelligent Control**, and exploring **AI in Finance**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, C++
+- **AI/ML:** XGBoost, SHAP, YOLOv8, Time Series Modeling
+- **Robotics:** MPC, Arm/Manipulator, ROS
+- **Tools:** FastAPI, Streamlit, Figma, Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Focus Areas
+- **Computer Vision:** Translating software models into real-world applications (e.g., CCTV speed detection).
+- **Embedded AI:** Integrating machine learning with hardware/robotics manipulators.
+- **Financial Research:** Applying AI and time-series models to financial data analysis.
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/reizo-alinandito/)
