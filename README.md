@@ -12,7 +12,8 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Airlang
 
 **🔬 Current Research & Focus:**
 - **Computer Vision & Image Processing** - Real-world deployment of YOLOv8 and perspective calibration.
-- **Embedded AI** - Integrating machine learning with hardware (MPU6050, Motor Control).
+- **Explainable AI (XAI)** - Diagnostic modeling for factor analysis (e.g., Employee Attrition) using XGBoost and SHAP.
+- **System Control** - Integrating machine learning with hardware (MPU6050, Motor Control).
 - **Financial AI** - Exploring predictive modeling using Time-Series analysis.
 - **Robotic Motion Planning** - Motion planning for manipulators using MPC and B-Spline.
 
@@ -33,16 +34,18 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Airlang
 ---
 
 ### 📂 Featured Projects
+- **Factor Analysis of Employee Attrition using Explainable AI (XAI):** - Constructed a diagnostic model using **XGBoost** to identify complex HR patterns and resignation characteristics.
+  - Implemented **Cost-Sensitive Learning** and **Dynamic Threshold Tuning** to solve class imbalance and optimize F1-score.
+  - Integrated **SHAP** as a "translator" for two-layered analysis: **Global Factors** (company-wide trends like OverTime) and **Local Factors** (individual root causes).
 - **Vehicle Speed Detection:** CCTV-based speed estimation using YOLOv8 and perspective transformation.
-- **Explainable AI (XAI):** Employee attrition analysis using XGBoost and SHAP for local/global insights.
 - **Robot Motion Planning:** 6-DOF manipulator simulation using MPC.
-- 
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/reizo-alinandito/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
