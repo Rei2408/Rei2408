@@ -1,4 +1,4 @@
-# 🤖 Reizo Alinandito
+# 🤖 Reizo Nararya
 ## Robotics & AI Engineering Student 
 
 <p align="center">
