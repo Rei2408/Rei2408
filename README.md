@@ -8,7 +8,7 @@
 ---
 
 ### 🎯 About Me
-I am a **Robotics and Artificial Intelligence Engineering** student at **Airlangga University**, specializing in bridging the gap between intelligent software and physical systems. My research focus is on transforming pure software models into real-world applications through **Computer Vision** and **Intelligent Control**.
+I am a **Robotics and Artificial Intelligence Engineering** student at **Airlangga University**, specializing in bridging the gap between intelligent software and physical systems. My research focus is on transforming pure software models into real-world applications through **Computer Vision**, **AI for Corporate** and **Intelligent Control**.
 
 **🔬 Current Research & Focus:**
 - **Computer Vision & Image Processing** - Real-world deployment of YOLOv8 and perspective calibration.
