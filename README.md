@@ -35,15 +35,14 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Airlang
 ### 📂 Featured Projects
 - **Vehicle Speed Detection:** CCTV-based speed estimation using YOLOv8 and perspective transformation.
 - **Explainable AI (XAI):** Employee attrition analysis using XGBoost and SHAP for local/global insights.
-- **Robot Motion Planning:** 6-DOF manipulator simulation using MPC and B-Spline.
+- **Robot Motion Planning:** 6-DOF manipulator simulation using MPC.
+- 
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/reizo-alinandito/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/reizoalinandito" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
 
 ---
 
