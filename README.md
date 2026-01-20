@@ -1,5 +1,5 @@
 # 🤖 Reizo Alinandito
-## Robotics & AI Engineering Student | Computer Vision Enthusiast | AI Researcher
+## Robotics & AI Engineering Student 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Bridging+Hardware+%26+Software;Computer+Vision+%7C+YOLOv8;Intelligent+Systems+%7C+Robotics;Financial+AI+%7C+Time+Series;Building+the+Future+with+AI" alt="Typing SVG" />
@@ -24,7 +24,6 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Airlang
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### **Data Science & Intelligent Systems**
 - **Machine Learning:** XGBoost, SHAP (Explainable AI), Scikit-learn.
