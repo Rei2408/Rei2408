@@ -25,7 +25,7 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Airlang
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=white)
+![HTML](https://img.shields.io/badge/HTML-00979D?style=for-the-badge&logo=html&logoColor=white)
 
 #### **Data Science & Intelligent Systems**
 - **Machine Learning:** XGBoost, SHAP (Explainable AI), Scikit-learn.
