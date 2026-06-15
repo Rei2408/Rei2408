@@ -37,13 +37,38 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Univers
 ---
 
 ### 📂 Featured Projects
-- [cite_start]**Effix.AI - Code Optimizer:** Engineered an AI-driven code evaluation and refactoring system[cite: 469]. [cite_start]Developed an end-to-end pipeline utilizing deterministic Abstract Syntax Tree (AST) parsing combined with **Llama 3.3 70B** reasoning [cite: 470][cite_start], achieving a 60-95% execution time reduction and 85-92% recommendation accuracy[cite: 471]. [cite_start]Scaled the microservices architecture using vector-based adaptive memory (`pgvector`) for sub-2-second analysis latency[cite: 472].
-- [cite_start]**WhisPr - Cloud-AI & Nanoprism IoT Scanner:** Designed a unified, real-time diagnostic pipeline for nutritional monitoring[cite: 462, 468]. [cite_start]Trained a custom **YOLOv8** segmentation model mapping 25 food classes [cite: 464][cite_start], deployed on a Hugging Face FastAPI inference server to handle orientation correction and deduplication[cite: 467]. [cite_start]Programmed an **ESP32-C3** and AS7341 spectral sensor [cite: 465][cite_start], bridging physical hardware with a React Native mobile application handling live sensor heuristics[cite: 466].
-- [cite_start]**Factor Analysis of Employee Attrition using Explainable AI (XAI):** Constructed a diagnostic framework using **XGBoost** to pinpoint characteristics leading to employee resignation[cite: 475]. [cite_start]Integrated **SHAP** (SHapley Additive exPlanations) for dual-layered interpretation, successfully identifying unique, individualized root causes via Global and Local Factor analysis[cite: 476].
-- [cite_start]**Log Anomaly Detection System with LogBERT & RAG:** Designed an automated log monitoring system for the BGL supercomputer dataset[cite: 478, 480]. [cite_start]Fine-tuned **LogBERT** with DeepSVDD for unsupervised anomaly detection [cite: 480] [cite_start]and orchestrated a **Retrieval-Augmented Generation (RAG)** pipeline powered by Nemotron LLM to deliver intelligent root cause analysis[cite: 479]. [cite_start]Exposed the pipeline via REST API (FastAPI) linked to a real-time Telegram bot[cite: 481].
-- [cite_start]**Road Pothole Segmentation (ARA 7.0 Competition):** Achieved **11th place (out of 260 teams)** on the Kaggle private leaderboard[cite: 485]. [cite_start]Developed a deep learning pipeline fine-tuning the **NVIDIA SegFormer-B5** architecture (pretrained on ADE20K) for binary mask segmentation[cite: 482, 484]. [cite_start]Implemented robust image augmentation techniques to ensure high generalizability to unseen road conditions[cite: 484].
-- **Traffic Violation Detection via SITS Cameras:** CCTV-based vehicle speed detection using a 72-layer **YOLOv8** fused model and a geometric polygonal overlay to measure the Euclidean distance of pixel displacement.
-- **Robot Motion Planning (MPC):** 6-DOF UR5 manipulator simulation using **Model Predictive Control (MPC)** and second-order kinematics to enforce physical velocity and acceleration boundary constraints.
+
+- **Effix.AI - Code Optimizer**
+  - Engineered an AI-driven code evaluation and refactoring system utilizing **Llama 3.3 70B** reasoning.
+  - Developed an end-to-end pipeline using deterministic Abstract Syntax Tree (AST) parsing.
+  - Scaled microservices with vector-based adaptive memory (`pgvector`), achieving 60-95% execution time reduction and sub-2-second latency.
+
+- **WhisPr - Cloud-AI & Nanoprism IoT Scanner**
+  - Designed a real-time diagnostic pipeline for nutritional monitoring bridging physical hardware with a React Native app.
+  - Trained a custom **YOLOv8** segmentation model (25 food classes) deployed on a Hugging Face FastAPI inference server.
+  - Programmed an **ESP32-C3** and AS7341 spectral sensor to handle live sensor heuristics.
+
+- **Factor Analysis of Employee Attrition using Explainable AI (XAI)**
+  - Constructed an **XGBoost** diagnostic framework to pinpoint characteristics leading to employee resignation.
+  - Integrated **SHAP** (SHapley Additive exPlanations) for dual-layered interpretation to identify unique, individualized root causes via Global and Local Factor analysis.
+
+- **Log Anomaly Detection System with LogBERT & RAG**
+  - Designed an automated log monitoring system for the BGL supercomputer dataset, exposed via REST API and a real-time Telegram bot.
+  - Fine-tuned **LogBERT** with DeepSVDD for unsupervised anomaly detection.
+  - Orchestrated a **Retrieval-Augmented Generation (RAG)** pipeline powered by Nemotron LLM to deliver intelligent root cause analysis.
+
+- **Road Pothole Segmentation (ARA 7.0 Competition)**
+  - Achieved **11th place (out of 260 teams)** on the Kaggle private leaderboard.
+  - Developed a deep learning pipeline fine-tuning the **NVIDIA SegFormer-B5** architecture for binary mask segmentation.
+  - Implemented robust image augmentation techniques to ensure high generalizability to unseen road conditions.
+
+- **Traffic Violation Detection via SITS Cameras**
+  - Engineered CCTV-based vehicle speed detection using a 72-layer **YOLOv8** fused model.
+  - Utilized a geometric polygonal overlay to measure the Euclidean distance of pixel displacement.
+
+- **Robot Motion Planning (MPC)**
+  - Simulated 6-DOF UR5 manipulator movement using **Model Predictive Control (MPC)**.
+  - Enforced physical velocity and acceleration boundary constraints using explicit second-order kinematics.
 
 ---
 
