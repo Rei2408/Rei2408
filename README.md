@@ -1,21 +1,21 @@
-# 🤖 Reizo Nararya
+# 🤖 Reizo Nararya Alinandito
 ## Robotics & AI Engineering Student 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Bridging+Hardware+%26+Software;Computer+Vision+%7C+YOLOv8;Intelligent+Systems+%7C+Robotics;Financial+AI+%7C+Time+Series;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=LLM+Integration+%26+RAG;Explainable+AI+%7C+XGBoost;Computer+Vision+%7C+YOLOv8;Full-Stack+AI+%7C+IoT;Robotics+Control+%7C+MPC" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎯 About Me
-I am a **Robotics and Artificial Intelligence Engineering** student at **Airlangga University**, specializing in bridging the gap between intelligent software and physical systems. My research focus is on transforming pure software models into real-world applications through **Computer Vision**, **AI for Corporate** and **Intelligent Control**.
+I am a **Robotics and Artificial Intelligence Engineering** student at **Universitas Airlangga**, specializing in bridging the gap between intelligent software and physical systems. My research focus is on transforming pure software models into real-world applications through **Computer Vision**, **Explainable AI (XAI)**, **LLM Integration**, and **Intelligent Control**.
 
 **🔬 Current Research & Focus:**
-- **Computer Vision & Image Processing** - Real-world deployment of YOLOv8 and perspective calibration.
+- **Computer Vision & Image Processing** - Real-world deployment of YOLOv8 for perspective calibration and SegFormer-B5 for semantic segmentation.
 - **Explainable AI (XAI)** - Diagnostic modeling for factor analysis (e.g., Employee Attrition) using XGBoost and SHAP.
-- **System Control** - Integrating machine learning with hardware (MPU6050, Motor Control).
-- **Financial AI** - Exploring predictive modeling using Time-Series analysis.
-- **Robotic Motion Planning** - Motion planning for manipulators using MPC and B-Spline.
+- **LLM Integration & RAG** - Architecting multi-agent deterministic pipelines and code evaluation tools using Llama 3.3 and Nemotron.
+- **Full-Stack AI & IoT** - Developing edge-to-cloud architectures, focusing on mechanical designs for smartphone attachments and cloud-based machine learning inference.
+- **Robotic Motion Planning** - 3D trajectory motion analysis for manipulators using Model Predictive Control (MPC).
 
 ---
 
@@ -25,23 +25,24 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Airlang
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### **Data Science & Intelligent Systems**
-- **Machine Learning:** XGBoost, SHAP (Explainable AI), Scikit-learn.
-- **Computer Vision:** OpenCV, YOLOv8, Image Processing.
-- **Automation:** Omron PLC (CX-Programmer & CX-Designer).
+- **Machine Learning & LLMs:** XGBoost, SHAP (Explainable AI), Llama 3.3, Nemotron LLM, LogBERT.
+- **Computer Vision:** YOLOv8, SegFormer-B5, OpenCV, Hugging Face Transformers.
+- **Infrastructure & Backend:** PostgreSQL, pgvector, Docker, FastAPI, React Native.
 
 ---
 
 ### 📂 Featured Projects
-- **Factor Analysis of Employee Attrition using Explainable AI (XAI):** - Constructed a diagnostic model using **XGBoost** to identify complex HR patterns and resignation characteristics.
+- **Factor Analysis of Employee Attrition using Explainable AI (XAI):** 
+  - Constructed a diagnostic model using **XGBoost** to identify complex HR patterns and resignation characteristics.
   - Implemented **Cost-Sensitive Learning** and **Dynamic Threshold Tuning** to solve class imbalance and optimize F1-score.
   - Integrated **SHAP** as a "translator" for two-layered analysis: **Global Factors** (company-wide trends like OverTime) and **Local Factors** (individual root causes).
-- **Vehicle Speed Detection:** CCTV-based speed estimation using YOLOv8 and perspective transformation.
-- **Robot Motion Planning:** 6-DOF manipulator simulation using MPC.
+- **WhisPr - Cloud-AI & Nanoprism IoT Scanner:** Focused on its mechanical design as a smartphone attachment and cloud-based machine learning architecture for nutritional monitoring. Bridged physical hardware with a React Native app and a YOLOv8-powered FastAPI inference server.
+- **Traffic Violation Detection via SITS Cameras:** CCTV-based vehicle speed detection using a 72-layer **YOLOv8** fused model and a geometric polygonal overlay to measure the Euclidean distance of pixel displacement.
+- **Robot Motion Planning (MPC):** 6-DOF UR5 manipulator simulation using **Model Predictive Control (MPC)** and second-order kinematics to enforce physical velocity and acceleration boundary constraints.
 
 ---
 
