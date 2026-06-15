@@ -1,5 +1,5 @@
 # 🤖 Reizo Nararya Alinandito
-## Robotics & AI Engineering Student 
+## Robotics & AI Engineering Student | Full-Pipeline Systems Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=LLM+Integration+%26+RAG;Explainable+AI+%7C+XGBoost;Computer+Vision+%7C+YOLOv8;Full-Stack+AI+%7C+IoT;Robotics+Control+%7C+MPC" alt="Typing SVG" />
@@ -37,12 +37,11 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Univers
 ---
 
 ### 📂 Featured Projects
-- **Effix.AI - Code Optimizer:** Engineered an automated code evaluation and refactoring platform integrated with **Llama 3.3 70B**. Transformed raw source code into Abstract Syntax Trees (AST) to calculate deterministic metrics, utilizing **pgvector** for adaptive memory to successfully refactor code to execute up to 95% faster.
-- **Factor Analysis of Employee Attrition using Explainable AI (XAI):** 
-  - Constructed a diagnostic model using **XGBoost** to identify complex HR patterns and resignation characteristics.
-  - Implemented **Cost-Sensitive Learning** and **Dynamic Threshold Tuning** to solve class imbalance and optimize F1-score.
-  - Integrated **SHAP** as a "translator" for two-layered analysis: **Global Factors** (company-wide trends like OverTime) and **Local Factors** (individual root causes).
-- **WhisPr - Cloud-AI & Nanoprism IoT Scanner:** Focused on its mechanical design as a smartphone attachment and cloud-based machine learning architecture for nutritional monitoring. Bridged physical hardware with a React Native app and a YOLOv8-powered FastAPI inference server deployed on **Hugging Face**.
+- [cite_start]**Effix.AI - Code Optimizer:** Engineered an AI-driven code evaluation and refactoring system[cite: 469]. [cite_start]Developed an end-to-end pipeline utilizing deterministic Abstract Syntax Tree (AST) parsing combined with **Llama 3.3 70B** reasoning [cite: 470][cite_start], achieving a 60-95% execution time reduction and 85-92% recommendation accuracy[cite: 471]. [cite_start]Scaled the microservices architecture using vector-based adaptive memory (`pgvector`) for sub-2-second analysis latency[cite: 472].
+- [cite_start]**WhisPr - Cloud-AI & Nanoprism IoT Scanner:** Designed a unified, real-time diagnostic pipeline for nutritional monitoring[cite: 462, 468]. [cite_start]Trained a custom **YOLOv8** segmentation model mapping 25 food classes [cite: 464][cite_start], deployed on a Hugging Face FastAPI inference server to handle orientation correction and deduplication[cite: 467]. [cite_start]Programmed an **ESP32-C3** and AS7341 spectral sensor [cite: 465][cite_start], bridging physical hardware with a React Native mobile application handling live sensor heuristics[cite: 466].
+- [cite_start]**Factor Analysis of Employee Attrition using Explainable AI (XAI):** Constructed a diagnostic framework using **XGBoost** to pinpoint characteristics leading to employee resignation[cite: 475]. [cite_start]Integrated **SHAP** (SHapley Additive exPlanations) for dual-layered interpretation, successfully identifying unique, individualized root causes via Global and Local Factor analysis[cite: 476].
+- [cite_start]**Log Anomaly Detection System with LogBERT & RAG:** Designed an automated log monitoring system for the BGL supercomputer dataset[cite: 478, 480]. [cite_start]Fine-tuned **LogBERT** with DeepSVDD for unsupervised anomaly detection [cite: 480] [cite_start]and orchestrated a **Retrieval-Augmented Generation (RAG)** pipeline powered by Nemotron LLM to deliver intelligent root cause analysis[cite: 479]. [cite_start]Exposed the pipeline via REST API (FastAPI) linked to a real-time Telegram bot[cite: 481].
+- [cite_start]**Road Pothole Segmentation (ARA 7.0 Competition):** Achieved **11th place (out of 260 teams)** on the Kaggle private leaderboard[cite: 485]. [cite_start]Developed a deep learning pipeline fine-tuning the **NVIDIA SegFormer-B5** architecture (pretrained on ADE20K) for binary mask segmentation[cite: 482, 484]. [cite_start]Implemented robust image augmentation techniques to ensure high generalizability to unseen road conditions[cite: 484].
 - **Traffic Violation Detection via SITS Cameras:** CCTV-based vehicle speed detection using a 72-layer **YOLOv8** fused model and a geometric polygonal overlay to measure the Euclidean distance of pixel displacement.
 - **Robot Motion Planning (MPC):** 6-DOF UR5 manipulator simulation using **Model Predictive Control (MPC)** and second-order kinematics to enforce physical velocity and acceleration boundary constraints.
 
@@ -51,6 +50,7 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Univers
 ### 📫 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/reizo-alinandito/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:reizojoe@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
