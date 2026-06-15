@@ -21,17 +21,18 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Univers
 
 ### 🛠️ Tech Stack & Tools
 
-#### **AI & Robotics**
+#### **AI, Robotics & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### **Data Science & Intelligent Systems**
 - **Machine Learning & LLMs:** XGBoost, SHAP (Explainable AI), Llama 3.3, Nemotron LLM, LogBERT.
-- **Computer Vision:** YOLOv8, SegFormer-B5, OpenCV, Hugging Face Transformers.
-- **Infrastructure & Backend:** PostgreSQL, pgvector, Docker, FastAPI, React Native.
+- **Computer Vision:** YOLOv8, SegFormer-B5, OpenCV.
+- **Infrastructure & Cloud:** Hugging Face, PostgreSQL, pgvector, Docker, FastAPI, React Native.
 
 ---
 
@@ -40,7 +41,7 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Univers
   - Constructed a diagnostic model using **XGBoost** to identify complex HR patterns and resignation characteristics.
   - Implemented **Cost-Sensitive Learning** and **Dynamic Threshold Tuning** to solve class imbalance and optimize F1-score.
   - Integrated **SHAP** as a "translator" for two-layered analysis: **Global Factors** (company-wide trends like OverTime) and **Local Factors** (individual root causes).
-- **WhisPr - Cloud-AI & Nanoprism IoT Scanner:** Focused on its mechanical design as a smartphone attachment and cloud-based machine learning architecture for nutritional monitoring. Bridged physical hardware with a React Native app and a YOLOv8-powered FastAPI inference server.
+- **WhisPr - Cloud-AI & Nanoprism IoT Scanner:** Focused on its mechanical design as a smartphone attachment and cloud-based machine learning architecture for nutritional monitoring. Bridged physical hardware with a React Native app and a YOLOv8-powered FastAPI inference server deployed on **Hugging Face**.
 - **Traffic Violation Detection via SITS Cameras:** CCTV-based vehicle speed detection using a 72-layer **YOLOv8** fused model and a geometric polygonal overlay to measure the Euclidean distance of pixel displacement.
 - **Robot Motion Planning (MPC):** 6-DOF UR5 manipulator simulation using **Model Predictive Control (MPC)** and second-order kinematics to enforce physical velocity and acceleration boundary constraints.
 
