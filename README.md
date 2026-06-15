@@ -37,6 +37,7 @@ I am a **Robotics and Artificial Intelligence Engineering** student at **Univers
 ---
 
 ### 📂 Featured Projects
+- **Effix.AI - Code Optimizer:** Engineered an automated code evaluation and refactoring platform integrated with **Llama 3.3 70B**. Transformed raw source code into Abstract Syntax Trees (AST) to calculate deterministic metrics, utilizing **pgvector** for adaptive memory to successfully refactor code to execute up to 95% faster.
 - **Factor Analysis of Employee Attrition using Explainable AI (XAI):** 
   - Constructed a diagnostic model using **XGBoost** to identify complex HR patterns and resignation characteristics.
   - Implemented **Cost-Sensitive Learning** and **Dynamic Threshold Tuning** to solve class imbalance and optimize F1-score.
